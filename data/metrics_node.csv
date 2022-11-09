@@ -1,4 +1,4 @@
-url_start,qty_all,qty_unique_user,diff_mean_in,diff_max_in,diff_min_in,diff_sum_in,qty_in,reload_mean_in,process_order_mean_in,diff_mean_out,diff_max_out,diff_min_out,diff_sum_out,qty_out,reload_mean_out,process_order_mean_out,qty_in_out_ratio
+url_start,qty_all,qty_unique_user,diff_mean_in,diff_max_in,diff_min_in,diff_sum_in,qty_in,is_reload_in,process_order_mean_in,diff_mean_out,diff_max_out,diff_min_out,diff_sum_out,qty_out,is_reload_out,process_order_mean_out,qty_in_out_ratio
 /secure/accountclose/confirmation.aspx,123,92,710.175061050061,24314,142,29755,123,0.0,197.46859513035983,12.0625,75,2,1544,128,0.0,27.703125,0.9609375
 /secure/accountclose/create.aspx,172,116,11323.536413043477,85971,91,170197,172,0.0,184.15529891304348,65.18722786647315,510,14,4160,173,0.0,84.41993226898887,0.9942196531791907
 /secure/accountoperations.aspx,57,26,2184.683116883117,11278,344,15311,57,1.0,255.81309523809523,198.19172932330827,1251,63,3740,57,1.0,119.75563909774436,1.0

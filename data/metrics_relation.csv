@@ -1,4 +1,4 @@
-url_start,url_end,diff_mean,diff_max,diff_min,diff_sum,qty_rel_all,reload_mean,process_order_mean
+url_start,url_end,diff_mean,diff_max,diff_min,diff_sum,qty_rel_all,is_reload,process_order_mean
 /secure/accountclose/confirmation.aspx,/secure/accountclose/create.aspx,34.92307692307692,80,5,454,13,0.0,39.92307692307692
 /secure/accountclose/confirmation.aspx,/secure/accounts.aspx,71.125,821,8,1707,24,0.0,24.416666666666668
 /secure/accountclose/confirmation.aspx,/secure/bonusprogram/mkbbonus/main.aspx,25.0,25,25,25,1,0.0,27.0
